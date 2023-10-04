@@ -23,38 +23,6 @@ endif::[]
 
 IMPORTANT: Puedes descargarte una versión en PDF desde https://flserv.github.io/asciidoc/ebook.pdf[aquí.]
 
-ifndef::backend-pdf[]
-[cols="1,1,1", width=100%]
-|===
-|BLOC 4. CONTROL I ROBÒTICA ||
-
-
-|*Continguts* 
-|*Criteris d’avaluació* 
-|*Estàndards d’aprenentatge avaluables*
-
-
-.3+a| Sistemes automàtics. 
-
-
-Components característics de dispositius de control. 
-
-
-Disseny i construcció de robots senzills.
- 
-L’ordinador com a element de programació i control. Llenguatges bàsics de programació. 
-
-
-Aplicació de targetes controladores en l’experimentació amb prototips dissenyats.
-|1. Analitzar sistemes automàtics i descriure’n els components. 
-|1.1. Analitza el funcionament d’automatismes en diferents dispositius tècnics habituals i diferencia entre els sistemes de control d’enllaç obert i tancat.
-|2. Muntar automatismes senzills.
-|2.1. Representa i munta automatismes senzills. 
-|3. Desenvolupar un programa per controlar un sistema automàtic o un robot de forma autònoma. 
-|3.1. Desenvolupa un programa per controlar un sistema automàtic o un robot que funcioni de forma autònoma en funció de la realimentació que rebi de l’entorn.
-|===
-endif::[]
-
 <<<
 
 [.text-justify]
