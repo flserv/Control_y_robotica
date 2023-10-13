@@ -87,19 +87,13 @@ Los *actuadores* son elementos que llevan a cabo acciones sobre el proceso para 
 [.text-justify,%unbreakable]
 === Tipos de sistemas de control
 
-
 Cuando la salida no tiene influencia sobre la señal de entrada, se dice que es de *lazo abierto*. 
 
-
-image::
-
-https://github.com/flserv/Control_y_robotica/blob/4bba3ee8cce3beabdede538aaa79e755fed0eb92/images/sistemadecontrolabierto%20(1).jpg[Sistema de lazo abierto,width=70%, align=center]
-
+image::https://raw.githubusercontent.com/flserv/Control_y_robotica/4bba3ee8cce3beabdede538aaa79e755fed0eb92/images/sistemadecontrolabierto%20(1).jpg[Sistema de lazo abierto,width=70%, align=center]
 
 Cuando la salida influye en las señal de entrada, se dice que es de *lazo cerrado* o con *realimentación*. 
 
-image::https://raw.githubusercontent.com/flserv/Control_y_robotica/4bba3ee8cce3beabdede538aaa79e755fed0eb92/images/sistemadecontrolabierto%20(1).jpg[Sistema de lazo cerrado,width=70%, align=center]
-
+image::https://raw.githubusercontent.com/flserv/Control_y_robotica/4bba3ee8cce3beabdede538aaa79e755fed0eb92/images/sistemadecontrolcerrado%20(1).jpg[Sistema de lazo cerrado,width=70%, align=center]
 
 [.text-justify]
 ==== Ventajas
