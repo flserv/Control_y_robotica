@@ -18,7 +18,6 @@ Francisco L. Servén
 ifdef::backend-html5[]
 ++++
 <script src="https://darshandsoni.com/asciidoctor-skins/switcher.js" type="text/javascript"></script>
-
 IMPORTANT: Puedes descargarte una versión en PDF desde https://flserv.github.io/asciidoc/ebook.pdf[aquí.]
 ++++
 endif::[]
